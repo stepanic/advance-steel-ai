@@ -1,0 +1,14 @@
+# Private raw context (meeting notes, transcripts links, names)
+private/
+
+# OS / editor
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Local env / secrets
+.env
+.env.*
+*.pem
+*.key
